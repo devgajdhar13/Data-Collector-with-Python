@@ -15,7 +15,6 @@
 Data Collector project/
 ├── project-1.py
 ├── output.png
-├── Screenshot 2026-07-05 091843.png
 └── README.md
 ```
 
@@ -51,14 +50,9 @@ Display Results
 ## 📸 Project Showcase
 
 ### Console Output
-> Place `output.png` in the same folder as this README.
 
 ![Console Output](output.png)
 
-### Project Folder
-> Place `Screenshot 2026-07-05 091843.png` in the same folder as this README.
-
-![Project Folder](Screenshot%202026-07-05%20091843.png)
 
 ## 🚀 How to Run
 ```bash
