@@ -55,9 +55,35 @@ Display Results
 
 
 ## 🚀 How to Run
-```bash
-python project-1.py
-```
+## 🚀 How to Run
+
+1. Download or clone this repository to your computer.
+
+2. Open the project folder.
+
+3. Make sure Python 3.x is installed on your system.
+
+4. Open the `project-1.py` file in IDLE, VS Code, or any Python IDE.
+
+5. Run the program:
+   - **In IDLE:** Press **F5** or click **Run → Run Module**.
+   - **In VS Code/Terminal:**
+     ```bash
+     python project-1.py
+     ```
+
+6. Enter the required details when prompted:
+   - Name
+   - Age
+   - Height (in meters)
+   - Favourite Number
+
+7. The program will display:
+   - User information
+   - Data types (`str`, `int`, `float`)
+   - Memory addresses using `id()`
+   - Approximate birth year
+   - Rounded height
 
 ## 🛠️ Technologies
 - Python 3.13
